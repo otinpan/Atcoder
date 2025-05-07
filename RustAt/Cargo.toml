@@ -1,0 +1,8 @@
+[package]
+name = "RustAt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+proconio="0.4.3"
+ac-library-rs = { path = "src/ac_library" }
