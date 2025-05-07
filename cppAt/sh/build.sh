@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/atcoder/
+cd ~/atcoder/atcoderGit/cppAt/
 # ソースファイルの決定
 SOURCE_FILE="${1:-main.cpp}" # 引数が無い場合はmain.cppを使用
 
